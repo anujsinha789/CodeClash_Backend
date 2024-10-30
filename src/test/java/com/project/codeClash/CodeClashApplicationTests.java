@@ -1,10 +1,10 @@
-package com.project.codeArc;
+package com.project.codeClash;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class CodeArcApplicationTests {
+class CodeClashApplicationTests {
 
 	@Test
 	void contextLoads() {

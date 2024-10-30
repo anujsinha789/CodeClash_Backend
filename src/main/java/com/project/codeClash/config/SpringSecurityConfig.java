@@ -1,4 +1,4 @@
-package com.project.codeArc.config;
+package com.project.codeClash.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
@@ -13,7 +13,7 @@ import org.springframework.security.crypto.password.PasswordEncoder;
 import org.springframework.security.web.SecurityFilterChain;
 import org.springframework.security.web.authentication.UsernamePasswordAuthenticationFilter;
 
-import com.project.codeArc.filters.JwtFilter;
+import com.project.codeClash.filters.JwtFilter;
 
 @Configuration
 @EnableWebSecurity

@@ -1,4 +1,4 @@
-package com.project.codeArc.model;
+package com.project.codeClash.model;
 
 import jakarta.persistence.*;
 import java.time.LocalDateTime;

@@ -1,4 +1,4 @@
-package com.project.codeArc.utils;
+package com.project.codeClash.utils;
 
 
 import org.springframework.stereotype.Component;
